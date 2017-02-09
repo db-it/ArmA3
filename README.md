@@ -1,0 +1,23 @@
+# ArmA3 Mods
+### Must-Have
+
+- [CBA](http://www.armaholic.com/page.php?id=18767) Community Base addons
+- [TFAR](http://radio.task-force.ru/en/) Task Force Radio
+- [ACE](http://www.armaholic.com/page.php?id=28557) Advanced Combat Environment 3
+- [Enhanced Movement](http://www.armaholic.com/page.php?id=27224) Enhanced Movement
+- [sthud](http://www.armaholic.com/page.php?id=9936) Mini Radar
+- [BW Mod](http://bwmod.de/index.php/inhalt/download) Bundeswehr Mod
+
+### Optional Scenario Mods
+
+- [Exile Mod](http://www.exilemod.com/)
+- [Epoch Mod](http://epochmod.com/)
+
+## Installation
+
+Gundsätzlich gilt: Alle Mods entpacken und in das Arma3 Hauptverzeichnis kopieren.
+
+### Installation TFAR Teamspeak Plugin
+Zunächst müssen ggf. alte TFAR oder ARME (Advanced Combat Radio Environment) Plugins deinstallieren. (Entsprechende Dateien im TS ```plugins``` Ordner löschen.)
+
+Datei ```task_force_radio.ts3_plugin``` im Addon Ordner ```@task_force_radio``` ausführen und TS Plugin installieren. Teamspeak neustarten!
