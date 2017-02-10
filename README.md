@@ -7,6 +7,7 @@
 - [Enhanced Movement](http://www.armaholic.com/page.php?id=27224) Enhanced Movement
 - [sthud](http://www.armaholic.com/page.php?id=9936) Mini Radar
 - [BW Mod](http://bwmod.de/index.php/inhalt/download) Bundeswehr Mod
+- [BW Mod ACE3](http://bwmod.de/index.php/inhalt/download)
 
 ### Optional Scenario Mods
 
